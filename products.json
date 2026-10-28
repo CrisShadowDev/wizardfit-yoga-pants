@@ -1,0 +1,36 @@
+{
+  "store": "WizardFit Yoga Pants",
+  "tier": "Fast: $20-40 profit per sale planning",
+  "products": [
+    {
+      "name": "Neon Sculpt Legging",
+      "desc": "High waist, sculpt fit.",
+      "price_planning": "$45"
+    },
+    {
+      "name": "Chrome Seam Legging",
+      "desc": "Chrome seam detail.",
+      "price_planning": "$49"
+    },
+    {
+      "name": "Trippy Print Legging",
+      "desc": "Neon trippy print.",
+      "price_planning": "$48"
+    },
+    {
+      "name": "Everyday Soft Legging",
+      "desc": "Daily soft, 4-way stretch.",
+      "price_planning": "$39"
+    },
+    {
+      "name": "Pocket Power Legging",
+      "desc": "Side pockets, gym to street.",
+      "price_planning": "$52"
+    },
+    {
+      "name": "Limited Neon Drop",
+      "desc": "Limited color drop.",
+      "price_planning": "$55"
+    }
+  ]
+}
